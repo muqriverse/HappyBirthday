@@ -147,7 +147,7 @@ memoryCards.forEach((card) => {
       memoryPhoto.hidden = true;
       memoryVideo.hidden = false;
       memoryVideo.src = card.dataset.video;
-      memoryPhotoCaption.textContent = "video untuk sayang ♡";
+      memoryPhotoCaption.textContent = "I love you ♡";
     } else {
       memoryVideo.hidden = true;
       memoryPhoto.hidden = false;
